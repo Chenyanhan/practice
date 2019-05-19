@@ -1,0 +1,1235 @@
+Starting SellApplication on DESKTOP-ONIB791 with PID 116 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 103ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b4222ae4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 3065 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 9.372 seconds (JVM running for 12.068)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 11 ms
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'signature' is not present]
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'signature' is not present]
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'signature' is not present]
+Starting SellApplication on DESKTOP-ONIB791 with PID 5020 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 102ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f46ec4bd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1996 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 7.719 seconds (JVM running for 10.11)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 10 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 7536 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 87ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d1bba25b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1606 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.354 seconds (JVM running for 6.993)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 14 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 14308 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 96ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1024bedf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1884 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 6.133 seconds (JVM running for 7.776)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 12 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m539ms682µs907ns).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m28s909ms32µs848ns).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m44s397ms723µs288ns).
+Starting SellApplication on DESKTOP-ONIB791 with PID 11712 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 75ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c014c159] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1511 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 4.917 seconds (JVM running for 6.297)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 11 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 12436 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 80ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$faf1a318] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1857 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.467 seconds (JVM running for 6.757)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 12 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 9952 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 80ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7230042c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1672 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.037 seconds (JVM running for 6.332)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 10 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 572 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 103ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7bee9a4a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1852 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 6.124 seconds (JVM running for 7.83)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 10 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53s241ms723µs219ns).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m58s443ms580µs641ns).
+Starting SellApplication on DESKTOP-ONIB791 with PID 12940 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 92ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$749d853f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1670 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.132 seconds (JVM running for 6.287)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 10 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 11316 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 115ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$cf5baedf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2028 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 6.703 seconds (JVM running for 8.132)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 15 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 12420 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 78ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$50bbdacd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1496 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.13 seconds (JVM running for 6.586)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 11 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 16320 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 76ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$54296c56] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1786 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 4.991 seconds (JVM running for 6.149)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 9 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 7084 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 97ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$65ce8003] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1851 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 6.302 seconds (JVM running for 7.879)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m13s988ms237µs773ns).
+Starting SellApplication on DESKTOP-ONIB791 with PID 15228 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 76ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d0fbea5d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1718 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.888 seconds (JVM running for 7.066)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 9 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 3820 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 104ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$161c708c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1707 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.984 seconds (JVM running for 7.355)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 12 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m1s890ms349µs729ns).
+Starting SellApplication on DESKTOP-ONIB791 with PID 7424 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 111ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f97b22f5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1895 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 6.477 seconds (JVM running for 7.834)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 12 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 1308 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 81ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bb613ee6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1683 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.16 seconds (JVM running for 6.463)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 2040 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 75ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e48af1e1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1427 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 4.935 seconds (JVM running for 6.36)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 10 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 15504 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 75ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c842bd61] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1398 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 4.929 seconds (JVM running for 6.104)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 10832 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 76ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d77381ec] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1456 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.383 seconds (JVM running for 6.632)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 11 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h50m24s768ms624µs786ns).
+Starting SellApplication on DESKTOP-ONIB791 with PID 12216 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 75ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$fc09c237] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1496 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.112 seconds (JVM running for 6.402)
+Starting SellApplication on DESKTOP-ONIB791 with PID 7512 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 86ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c86ff35a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1602 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.333 seconds (JVM running for 6.629)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 9 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 12828 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 95ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$de204afd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1866 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 6.554 seconds (JVM running for 8.016)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 12 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m44s157ms445µs848ns).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m33s658ms766µs960ns).
+Starting SellApplication on DESKTOP-ONIB791 with PID 2956 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 86ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a053824f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1510 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.106 seconds (JVM running for 6.416)
+Starting SellApplication on DESKTOP-ONIB791 with PID 4740 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 75ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1715e116] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1426 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 4.926 seconds (JVM running for 6.269)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 14144 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 74ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$94f8bbd4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1538 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.059 seconds (JVM running for 6.145)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 11 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 3516 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 76ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$98c37a64] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1608 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 4.859 seconds (JVM running for 6.008)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 9 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 7404 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 76ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$697b185b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1588 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 4.771 seconds (JVM running for 6.019)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 9 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 232 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 80ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a3a62d80] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1868 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.63 seconds (JVM running for 6.777)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 10 ms
+Path represents URL or has "url:" prefix: [https:/open.weixin.qq.com/connect/oauth2/authorize]
+Path represents URL or has "url:" prefix: [https:/open.weixin.qq.com/connect/oauth2/authorize]
+Path represents URL or has "url:" prefix: [https:/open.weixin.qq.com/connect/oauth2/authorize]
+Starting SellApplication on DESKTOP-ONIB791 with PID 3064 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 81ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$59002da2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1574 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.216 seconds (JVM running for 6.448)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 11 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 13916 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 85ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$faf1a318] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1596 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.093 seconds (JVM running for 6.205)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 16272 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 100ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9894c73] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2134 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 6.721 seconds (JVM running for 8.365)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 13368 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 75ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1715e116] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1380 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 4.732 seconds (JVM running for 5.814)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 15 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 14524 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 80ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$40654616] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1618 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 5.104 seconds (JVM running for 6.394)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 9 ms
+Starting SellApplication on DESKTOP-ONIB791 with PID 4784 (F:\Project\sell\target\classes started by C in F:\Project\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 75ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d1bba25b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 80 (http)
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+An older version [1.2.18] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+Loaded APR based Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1634 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.9.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 4.988 seconds (JVM running for 6.095)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 9 ms

@@ -1,0 +1,4 @@
+Column 'order_status' cannot be null
+HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+Column 'pay_status' cannot be null
+HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
