@@ -1,6 +1,0 @@
-com\cyh\springmvc\start\Generator.class
-com\cyh\springmvc\entity\User.class
-com\cyh\springmvc\mapper\UserMapper.class
-com\cyh\springmvc\service\UserServiceImpl.class
-com\cyh\springmvc\controller\UserController.class
-com\cyh\springmvc\service\UserService.class
